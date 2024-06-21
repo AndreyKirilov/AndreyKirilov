@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreyKirilov
-- 👀 I’m interested in learning new skills and developing as a software developer
+- 👀 I’m interested in learning new skills and becoming a software developer
 - 🌱 I’m currently learning Python at SoftUni
 - 📫 You can reach me at andrey_kirilov@abv.bg
 
