@@ -12,13 +12,13 @@
 <h2>Languages and Tools I Know</h2>
 
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="40" style="margin: 10px;"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" alt="Django" width="50" height="40" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="40" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="40" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="40" style="margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="40" style="margin: 10px;"/>
-    <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="50" height="40" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="30" style="margin: 10px;"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" alt="Django" width="50" height="30" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="30" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="30" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="30" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="30" style="margin: 10px;"/>
+    <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="50" height="30" style="margin: 10px;"/>
 </div>
 
 
