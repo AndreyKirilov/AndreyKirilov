@@ -12,7 +12,7 @@
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin: 10px;"/>
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg](https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg)" alt="Django" width="30" height="30" style="margin: 10px;"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" alt="Django" width="30" height="30" style="margin: 10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" style="margin: 10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" style="margin: 10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="margin: 10px;"/>
