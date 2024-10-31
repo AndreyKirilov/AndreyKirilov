@@ -9,28 +9,31 @@
 </div>
 
 <strong>Languages and Tools I Know</strong>
-<div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</div>
-<div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
-</div>
 
-<div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</div>
-
-<div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> HTML  
-</div>
-<div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> CSS  
-</div>
-<div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>  
-</div>
-<div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="30" height="30"/>
+    </div>
+    
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
+    </div>
+    
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>  
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>  
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/> 
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+    </div>
 </div>
 
 
