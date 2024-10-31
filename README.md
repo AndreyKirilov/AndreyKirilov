@@ -10,31 +10,30 @@
 
 <strong>Languages and Tools I Know</strong>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="margin: 10px;">
+<div align="center">
+    <div style="display: inline-block; margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
     </div>
-    <div style="margin: 10px;">
+    <div style="display: inline-block; margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="30" height="30"/>
     </div>
-    
-    <div style="margin: 10px;">
+    <div style="display: inline-block; margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
     </div>
-    
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>  
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
     </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>  
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
     </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/> 
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
     </div>
-    <div style="margin: 10px;">
+    <div style="display: inline-block; margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
     </div>
 </div>
+
 
 
 
