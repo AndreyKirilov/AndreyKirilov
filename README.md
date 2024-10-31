@@ -8,13 +8,38 @@
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKirilov&layout=compact&theme=tokyonight" style="width: 360px; height: auto;"/>
 </div>
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
-![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) Django  
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML  
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS  
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) PostgreSQL  
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git  
-![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) GitHub  
+Languages and Tools I Know
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python  
+</div>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> Django  
+</div>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript  
+</div>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> React  
+</div>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git  
+</div>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> Docker  
+</div>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> HTML  
+</div>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> CSS  
+</div>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL  
+</div>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> GitHub  
+</div>
+
 
 
 <!---
