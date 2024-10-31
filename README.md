@@ -8,6 +8,15 @@
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKirilov&layout=compact&theme=tokyonight" style="width: 360px; height: auto;"/>
 </div>
 
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
+![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) Django  
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML  
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS  
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) PostgreSQL  
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git  
+![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) GitHub  
+
+
 <!---
 AndreyKirilov/AndreyKirilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
