@@ -8,10 +8,8 @@
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKirilov&layout=compact&theme=tokyonight" style="width: 360px; height: auto;"/>
 </div>
 
-<div></div>
-<div></div>
 
-<strong>Languages and Tools I Know</strong>
+<h2>Languages and Tools I Know</h2>
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin: 10px;"/>
