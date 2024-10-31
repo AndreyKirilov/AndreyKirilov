@@ -8,6 +8,9 @@
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKirilov&layout=compact&theme=tokyonight" style="width: 360px; height: auto;"/>
 </div>
 
+<div></div>
+<div></div>
+
 <strong>Languages and Tools I Know</strong>
 
 <div>
