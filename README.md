@@ -4,7 +4,8 @@
 - 📫 You can reach me at andrey_kirilov@abv.bg
 
 <div style="display: flex; justify_content: space-between;">
-<img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=AndreyKirilov&show_icons=true&theme=tokyonight" style="width: 400px; height: auto; margin-right: 50px;"/>
+<img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=AndreyKirilov&show_icons=true&theme=tokyonight" style="width: 400px; height: auto;"/>
+<div style="width: 50px;"></div>  
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKirilov&layout=compact&theme=tokyonight" style="width: 360px; height: auto;"/>
 </div>
 
